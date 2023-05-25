@@ -26,7 +26,9 @@ int main()
 	char command;
 	int key;
 	Node* head = NULL;  //헤드 초기화
-	Node* ptr = NULL;	
+	Node* ptr = NULL;
+
+    printf("김민서 2022040010");	
 
 	do{
 		printf("\n\n");
